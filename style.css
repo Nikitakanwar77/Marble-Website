@@ -56,6 +56,12 @@ header {
   font-weight: 600;
   color: var(--main-color);
 }
+
+.home-img{
+  mix-blend-mode: multiply;
+
+}
+
 .navbar {
   display: flex;
 }
