@@ -12,12 +12,12 @@
 }
 *::selection {
   background: var(--main-color);
-  color: #fff;
+  color:#fff;
 }
 :root {
-  --main-color:red;
-  --text-color: #1e1c2a;
-  --bg-color:lightgrey;
+  --main-color:#E4B1F0;
+  --text-color:#674188;
+  --bg-color:#F7EFE5;
 
   --big-font: 4rem;
   --h2-font: 2.24rem;
@@ -57,10 +57,7 @@ header {
   color: var(--main-color);
 }
 
-.home-img{
-  mix-blend-mode: multiply;
 
-}
 
 .navbar {
   display: flex;
@@ -106,7 +103,7 @@ header {
   color: #fff;
 }
 .btn:hover {
-  background:red;
+  background:#E4B1F0;
 }
 .about {
   display: grid;
@@ -188,7 +185,7 @@ header {
   padding: 5px 8px;
 }
 .box .bx:hover {
-  background:red;
+  background:#E4B1F0;
 }
 .servives-container {
   display: grid;
@@ -332,8 +329,4 @@ header {
   .home-text {
     padding-top: 4rem;
   }
-}
-
-.heart{
-  color: red;
 }
