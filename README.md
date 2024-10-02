@@ -1,1 +1,5 @@
-<h1>This is a Simple Marble Website made with HTML, CSS and Javascript.</h1>
+<h1>Star-Stones Marble Website</h1>
+<br>
+This website is made with HTML, CSS and Javascript. 
+<br>
+Live Link - https://stars-stones.netlify.app/
