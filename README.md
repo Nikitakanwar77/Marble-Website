@@ -2,4 +2,4 @@
 <br>
 This website is made with HTML, CSS and Javascript. 
 <br>
-Live Link - https://stars-stones.netlify.app/
+
